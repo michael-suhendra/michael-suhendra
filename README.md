@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @michael-suhendra
+- 👀 Software engineer and data science student.
+- 🍻 Based near Munich
